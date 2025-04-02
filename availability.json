@@ -1,0 +1,125 @@
+{
+  "zonnebloem_availibility": [
+    {
+      "organisation": "de Zonnebloem",
+      "icon": "☀️",
+      "title": "Ochtendprogramma",
+      "time": "08:30 - 12:00",
+      "description": "De ochtend begint met leuke spelletjes en creatieve activiteiten. We knutselen, zingen liedjes en doen interactieve spelletjes die de fantasie van de kinderen prikkelen. Natuurlijk is er ook tijd om even lekker buiten te spelen!",
+      "slots": 3
+    },
+    {
+      "organisation": "de Zonnebloem",
+      "icon": "🕛",
+      "title": "Middagprogramma",
+      "time": "13:00 - 17:30",
+      "description": "Na de lunch gaan we op avontuur! De kinderen kunnen kiezen uit verschillende activiteiten zoals een speurtocht, een knutselworkshop of een gezellige voorleesmiddag. We zorgen ervoor dat iedereen iets leuks te doen heeft.",
+      "slots": 0
+    },
+    {
+      "organisation": "de Zonnebloem",
+      "icon": "🧮",
+      "title": "Dagprogramma",
+      "time": "08:30 - 17:30",
+      "description": "Een dag vol plezier! We starten met spelletjes en knutselen, daarna genieten we van een verhaaltje en een gezond tussendoortje. In de middag gaan we lekker naar buiten om te spelen en ontdekken. Perfect voor een dag vol avontuur!",
+      "slots": 5
+    }
+  ],
+  "speelboom_availibility": [
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🌞",
+      "title": "Ochtendavontuur",
+      "category": "Actief & Creatief",
+      "description": "Begin de dag met energieke activiteiten zoals dans, muziek en knutselen. Kinderen starten vol enthousiasme aan hun dag!",
+      "slots": 3
+    },
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🍎",
+      "title": "Middagontdekkers",
+      "category": "Natuur & Leren",
+      "description": "Ontdek de natuur met een speurtocht, een moestuinworkshop of een interactieve voorleeshoek. Een leerzame en leuke middag!",
+      "slots": 0
+    },
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🎭",
+      "title": "Fantasiewereld",
+      "category": "Theater & Verbeelding",
+      "description": "Laat kinderen hun eigen verhalen bedenken en naspelen met kostuums en toneelstukken. Een podium vol creativiteit!",
+      "slots": 5
+    },
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🛝",
+      "title": "Buitenpret",
+      "category": "Sport & Spel",
+      "description": "Klim, klauter en speel in onze veilige buitenruimte met uitdagende spelletjes en teamwork. Lekker bewegen en plezier maken!",
+      "slots": 0
+    },
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🔬",
+      "title": "Kleine Uitvinders",
+      "category": "Wetenschap & Ontdekken",
+      "description": "Voer leuke experimenten uit en ontdek hoe de wereld werkt op een speelse manier. Een mix van leren en plezier!",
+      "slots": 2
+    },
+    {
+      "organisation": "de Speelboom",
+      "categoryIcon": "🎨",
+      "title": "Kunstenaarsatelier",
+      "category": "Creatief & Expressief",
+      "description": "Van schilderen tot kleien: hier kunnen kinderen hun creativiteit de vrije loop laten en kunstwerken maken!",
+      "slots": 4
+    }
+  ],
+  "pleintje_availibility": [
+    {
+      "organisation": "het Pleintje",
+      "categoryIcon": "🎨",
+      "category": "Actief & Creatief",
+      "title": "Ochtendpret",
+      "time": "08:00 - 12:00",
+      "description": "Begin de dag met een vrolijk programma vol dans, muziek en creatieve knutselsessies. Kinderen starten hun ochtend met energie en plezier!",
+      "slots": 0
+    },
+    {
+      "organisation": "het Pleintje",
+      "categoryIcon": "🏕️",
+      "category": "Buiten & Natuur",
+      "title": "Middag Buitenavontuur",
+      "time": "13:00 - 16:00",
+      "description": "Een middag vol buitenactiviteiten! Van speurtochten tot sport en spel in de frisse lucht. De perfecte manier om actief en gezond te blijven.",
+      "slots": 2
+    },
+    {
+      "organisation": "het Pleintje",
+      "categoryIcon": "📚",
+      "category": "Educatief & Ontspannend",
+      "title": "Rustige Voorleesmiddag",
+      "time": "14:00 - 16:30",
+      "description": "Na de lunch kunnen kinderen heerlijk ontspannen met mooie verhalen en interactieve voorleesmomenten. Perfect voor een rustige middag.",
+      "slots": 1
+    },
+    {
+      "organisation": "het Pleintje",
+      "categoryIcon": "🧪",
+      "category": "Wetenschap & Experimenten",
+      "title": "Wetenschap & Ontdekken",
+      "time": "10:00 - 12:30",
+      "description": "Voer leuke experimenten uit en ontdek hoe de wereld werkt! Leren en spelen komen samen in dit interactieve ochtendprogramma.",
+      "slots": 0
+    },
+    {
+      "organisation": "het Pleintje",
+      "categoryIcon": "🎭",
+      "category": "Theater & Verbeelding",
+      "title": "Theater & Fantasie",
+      "time": "15:00 - 17:30",
+      "description": "Laat je creativiteit de vrije loop en speel in leuke toneelstukjes. Kinderen kunnen verkleden, scènes bedenken en zichzelf uitdrukken in een speelse setting!",
+      "slots": 5
+    }
+  ]
+}
